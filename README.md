@@ -11,8 +11,6 @@
 
 - 📫Meu e-mail de contato: **isabela.cardoso@direct.one**
 
-- 📫 GitHub pessoal
-
 - ⚡ Um fato sobre mim: **Sou apaixonada por Livros!**
 
 <h3 align="left">Connect with me:</h3>
